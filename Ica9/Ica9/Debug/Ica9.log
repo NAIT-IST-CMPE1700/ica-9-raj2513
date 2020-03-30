@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\rjs\Documents\Github\lab_2\ica-9-raj2513\Ica9\Ica9\main.c(28,30): warning C4047:  'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\rjs\Documents\Github\lab_2\ica-9-raj2513\Ica9\Ica9\main.c(28,30): warning C4024:  'PrintResult': different types for formal and actual parameter 2
+C:\Users\rjs\Documents\Github\lab_2\ica-9-raj2513\Ica9\Ica9\main.c(38,30): warning C4047:  'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\rjs\Documents\Github\lab_2\ica-9-raj2513\Ica9\Ica9\main.c(38,30): warning C4024:  'PrintResult': different types for formal and actual parameter 2
+C:\Users\rjs\Documents\Github\lab_2\ica-9-raj2513\Ica9\Ica9\main.c(47,30): warning C4047:  'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\rjs\Documents\Github\lab_2\ica-9-raj2513\Ica9\Ica9\main.c(47,30): warning C4024:  'PrintResult': different types for formal and actual parameter 2
+C:\Users\rjs\Documents\Github\lab_2\ica-9-raj2513\Ica9\Ica9\main.c(55,30): warning C4047:  'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\rjs\Documents\Github\lab_2\ica-9-raj2513\Ica9\Ica9\main.c(55,30): warning C4024:  'PrintResult': different types for formal and actual parameter 2
+  Ica9.vcxproj -> C:\Users\rjs\Documents\Github\lab_2\ica-9-raj2513\Ica9\Debug\Ica9.exe
